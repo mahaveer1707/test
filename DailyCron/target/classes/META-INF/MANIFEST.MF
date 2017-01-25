@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mahaveer
+Class-Path: lib/spring-context-3.0.0.RELEASE.jar lib/spring-expression
+ -3.0.0.RELEASE.jar lib/spring-asm-3.0.0.RELEASE.jar lib/spring-core-3
+ .0.0.RELEASE.jar lib/commons-logging-1.1.1.jar lib/spring-context-sup
+ port-3.0.0.RELEASE.jar lib/spring-beans-3.0.0.RELEASE.jar
+Build-Jdk: 1.8.0_112
+Created-By: Maven Integration for Eclipse
+Main-Class: com/HelloWorld
+
